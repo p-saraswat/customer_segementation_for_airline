@@ -11,7 +11,7 @@ Insights to increase customer enrollment in the Ufly Rewards loyalty program
 The given data is transformed and aggregated such that each row represents a unique customer. Customer-level data is analyzed by leveraging various clustering techniques. K-means clustering analysis and Gaussian Mixture model (GMM) clustering analysis were performed on this dataset. After feature level comparison of each cluster between K-means and GMM models, it is clear that K-means clusters are interpretable and distinct. Whereas GMM clusters have the least varied features among several features making them less interpretable. K-Means clusters serve the primary purpose of drawing critical insights which are actionable by XYZ airlines. As a result of K-means clustering analysis, XYZ's customers are grouped into four clusters. We create four personas to describe customers in each cluster based on the features highlighted, as shown in the diagram below: 
 
 
-      images/clusters.png                                                                                                                                                                                 
+<img src="/images/clusters.png" alt="Alt text" title="Customer Clusters">                                                                                                                                                                                    
                                                                                                      
 **Need-based Travelers**
 
