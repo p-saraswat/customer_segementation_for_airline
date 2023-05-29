@@ -34,6 +34,7 @@ Customers in this cluster comprise 15% of the total customers of XYZ, who contri
 Customers in this category are generally considered the most valuable to any airline. They are small in percentage, 1% of all customers, but they only cover 2% of the total revenue of XYZ. They travel first class (0% of the time) with an average cost per ticket of $327, and they travel frequently (seven times a year) with XYZ. 60% of the 1155 Elite customers belong to this segment and they book around 53 days in advance.
 
 ### Route-based Analysis findings:
+
 A route-based segmentation analysis was performed to supplement our clustering results. The results from this analysis are listed below:
 It is found that 80% of the customer base travel to and fro from Minneapolis to only 13 different cities (Boston, Cancun, Washington DC, New York City, Dallas, Las Vegas, Orlando, Los Angeles, Orlando, Los Angeles, Phoenix, Lee County, San Diego, San Francisco and Seattle). 
 Out of these 13 cities, 4 cities (Cancun, Los Angeles, San Diego, and San Francisco) have a distance from Minneapolis greater than 1400 miles.
@@ -59,6 +60,7 @@ Customers who have not yet signed up for the Standard Membership within this seg
 For these customers, the web app can generate notifications that indicate the past reward points the user can claim for redeeming services in their upcoming travel if they join Ufly Membership.
 
 **Premium Frequent Travelers**
+
 We recommend prioritizing marketing efforts and resources to other customer profiles. While customers in this segment have the most frequent travels and majorly hold Elite UflyMembership, they comprise only 1% of the total customer base of XYZ contributing to only 2% of revenue. Hence, more time could be concentrated on other groups while maintaining the quality of services to these customers.
 
 ### Long-Term Recommendation
