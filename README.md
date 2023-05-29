@@ -18,7 +18,7 @@ The given data is transformed and aggregated such that each row represents a uni
 This segment contains the majority of the customers (55%), but they are cost-sensitive and spend the least per ticket, as their average ticket cost is $200. Moreover, since the frequency of travel for these customers is about once a year and on average they book 37 days prior and travel in case of ‘need’. Also, these customers have a majority of young population, between 20 to 30 years of age. The dominant population in this cluster (93%) did not enroll in a Ufly membership. These customers also have a tendency to book return tickets back to their origin 35% of the time.
 
 
-
+<img src="/images/fig1.png" alt="Alt text" title="Percentage of Revenue generated per customer segment">        
 
 **Figure 1: Percentage of Revenue generated per customer segment**
 
